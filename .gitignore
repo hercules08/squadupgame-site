@@ -1,0 +1,20 @@
+# Keep the legacy LaunchKit export locally, but publish only the maintained site.
+/publish.cmd
+/publish.sh
+/src/*
+!/src/index.html
+!/src/404.html
+!/src/robots.txt
+!/src/sitemap.xml
+!/src/.nojekyll
+!/src/css/
+/src/css/*
+!/src/css/site.css
+!/src/images/
+/src/images/*
+!/src/images/squadup.jpg
+!/src/images/googleplay-btn.png
+!/src/images/app-store-black-on-color@2x-vUVAkYHUgzYCyeyfUGm8cda3C.png
+!/src/privacy/
+!/src/support/
+!/src/terms/
